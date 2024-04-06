@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <body bgcolor="#FEF9E7">
+
+    <header style="background-color: pink;">
+        <h1>Welcome to Samurai world</h1>
+        <a href="">Home</a>
+        <a href="">About us</a>
+        <a href="">Products</a>
+        <a href="">Contact Us</a>
+    </header><br>
+    <hr>
+    <main>
+        <img src="images/favicon.jpg">
+        <br>
+        <p><br>
+            Samurai were the hereditary military nobility and officer caste of medieval and early-modern Japan from the late 12th century until their abolition in the late 1870s during the Meiji era.
+            They were the well-paid retainers of the daimyo, the great feudal landholders. They had high prestige and special privileges.
+        </p>
+    </main>
+
+    <footer style="background-color: pink;">
+        author: Sujay Langade<br>
+        &copy; copyright reserved<br>
+        <small><a href="sujaylangade@fake.com">sujaylangade@fake.com</a></small>
+    </footer>
+
+    </head>
+</html>
